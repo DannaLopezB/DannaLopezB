@@ -7,7 +7,7 @@ on:
 on:
   push:
     branches:
-      - mai
+      - main
 
 jobs:
   commit:
